@@ -22,6 +22,3 @@ This project focuses on data analytics and database design for NorthStar Urban M
 - MongoDB NoSQL design
 - Query optimisation
 - GitHub integration
-
-## Author
-Abdul Rahman
